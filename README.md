@@ -35,7 +35,7 @@ npm run tauri dev
 
 ## 🔧 TODO  
 
-- [ ] **Automate builds**: Add GitHub Actions to build cross-platform applications for Windows, Linux, and macOS.  
+- [x] **Automate builds**: Add GitHub Actions to build cross-platform applications for Windows, Linux, and macOS.  
 - [ ] **Feature enhancements**: Add optional features like **SQL** support and more for Rust.  
 
 ---
